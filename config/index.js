@@ -127,7 +127,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 
-    {"keyword": "", date: ""},
+    {"keyword": "love_day", date: "2018-4-27"},
     // ... 
   ],
 
